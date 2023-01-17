@@ -1,4 +1,4 @@
-enum Levels {
+export enum Levels {
   "Info",
   "Urgent",
   "Blocking"
